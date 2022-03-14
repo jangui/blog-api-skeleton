@@ -1,0 +1,26 @@
+# domain
+export DOMAIN=
+
+# SSL
+export ACME_EMAIL=
+
+# database
+export MONGO_DB_HOSTNAME=
+export MONGO_DB_PORT=
+export DATABASE=
+export DB_ROOT_USERNAME=
+export DB_ROOT_PASSWORD=
+
+# api
+export API_PORT=
+export API_DB_USER=
+export API_DB_PASSWORD=
+
+# authentication
+export ACCESS_TOKEN_SECRET=
+export ACCESS_EXPIRATION=
+export REFRESH_TOKEN_SECRET=
+export REFRESH_EXPIRATION=
+
+# password hashing
+export BCRYPT_SALT_ROUNDS=
